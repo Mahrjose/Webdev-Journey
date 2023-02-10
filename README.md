@@ -1,0 +1,3 @@
+# My Web Development Journey...
+
+This repository contains all the practice projects I've done & notes and resources I've found while learning web-development. I'll try to update & organize the content in the future.
